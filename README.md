@@ -1,6 +1,6 @@
 # zmeet
 
-A new Flutter project.
+A Flutter App similar to zoom
 
 ## Getting Started
 
